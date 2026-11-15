@@ -1,0 +1,7 @@
+*.xlsx
+*.json
+*.exe
+output/
+.vscode/
+.venv/
+__pycache__/
